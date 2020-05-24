@@ -1,0 +1,27 @@
+h1 {
+    color:red;
+}
+
+p {
+    color:blueviolet;
+}
+
+#chosen {
+    border: 4px solid brown;
+}
+
+.foo {
+    text-transform:uppercase;
+}
+
+p::first-letter {
+    font-size: 2rem;
+}
+
+p:hover {
+    background-color:grey;
+}
+
+div p {
+    font-weight: bold;
+}
